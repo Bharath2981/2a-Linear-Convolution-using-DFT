@@ -1,4 +1,5 @@
 EXPT 2a: LINEAR CONVOLUTION-USING-DFT
+
 AIM:
 
 To perform and verify linear convolution operation of two given sequences using SCILAB.
@@ -10,7 +11,8 @@ PC installed with SCILAB
 PROGRAM:
 
 LINEAR CONVOLUTION
-'''clear;
+
+```clear;
 clc;
 
 // 1. Define Input Sequences
@@ -67,7 +69,7 @@ plot(n_y, y, 'ro', "MarkerFaceColor", "red", "MarkerSize", 6);
 xtitle('Linear Convolution Output y(n)', 'Time (n)', 'Amplitude');
 a = gca();
 a.data_bounds = [-0.5, 0; 6.5, 12]; // Extends x-axis to 6.5 to fit all output points
-xgrid(bg_grid);'''
+xgrid(bg_grid); ```
 
 ### CALCULATIONS:
 
