@@ -84,4 +84,5 @@ xgrid(bg_grid);
 
 
 RESULT:
+
 Thus, the linear convolution of the two given sequences were performed and its result was verified.
