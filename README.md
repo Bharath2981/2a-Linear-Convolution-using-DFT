@@ -77,9 +77,11 @@ xgrid(bg_grid);
 <img width="1005" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ca0e8b7-9c50-416c-8f86-0aee67ce8641" />
 <img width="1076" height="1600" alt="image" src="https://github.com/user-attachments/assets/ba32b8f8-9d8d-4cd8-8bc7-14113acaf1f2" />
 
+
 ### SAMPLE OUTPUT:
 
 <img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/da96ee03-e440-4903-8870-594c551f4f3a" />
+
 
 RESULT:
 Thus, the linear convolution of the two given sequences were performed and its result was verified.
